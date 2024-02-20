@@ -1,0 +1,7 @@
+﻿selenium
+flask
+apscheduler
+PyGithub
+beautifulsoup4
+pydub
+SpeechRecognition
